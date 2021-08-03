@@ -20,7 +20,8 @@ my_blog_listという名前のプロジェクトを作成しろと言った命�
 
 上記のコマンドによって
 
-![image](https://user-images.githubusercontent.com/79962572/127958264-1db7194d-9c32-4ebf-a092-d07dd10e6807.png)
+![image](https://user-images.githubusercontent.com/79962572/127958918-0a88d0ff-b8aa-4517-9bba-ec4519deba26.png)
+
 
 
 
