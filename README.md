@@ -18,8 +18,12 @@ django-admin startproject my_blog_list
 ```
 my_blog_listという名前のプロジェクトを作成しろと言った命令コマンドになります。
 
-上記ののコマンドによって
+上記のコマンドによって
+
 ![image](https://user-images.githubusercontent.com/79962572/127958264-1db7194d-9c32-4ebf-a092-d07dd10e6807.png)
+
+
+
 のような階層のフォルダーが自動生成されます。
 
 その後
